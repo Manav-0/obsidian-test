@@ -1,3 +1,6 @@
+---
+share: true
+---
 
 This is a step by step tutorial for installing Hyper-V on windows. Please visit the links mentions in the document for any reference. 
 
@@ -19,7 +22,7 @@ Learn more about [virtualization and Hyper V](https://learn.microsoft.com/en-us/
 - Verify by searching **Hyper-V** in the search bar.
 
 
-# this is test heading
+
 
 
 
