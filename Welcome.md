@@ -11,7 +11,7 @@ Learn more about [virtualization and Hyper V](https://learn.microsoft.com/en-us/
 [*docs*](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
 
 	checking for the system compatibility  before proceeding ahead.
-	Open Windows Run using **windows key + R ** 
+	Open Windows Run using windows key + R  
 	Search "msinfo32" and press enter.
 	Scroll down in System Summary and check for Hyper-V Requirements line. 
 #### Step.
