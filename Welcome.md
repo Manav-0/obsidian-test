@@ -20,7 +20,11 @@ Learn more about [virtualization and Hyper V](https://learn.microsoft.com/en-us/
 - Type *appwiz*.*cpl* and press enter. 
 - Click on **Turn windows features on or off**. 
 - Scroll down to Hyper-V and click **OK**. 
-![[Pasted image 20240327201759.png|500]]
+
+
+
+
+![[Pasted image 20240327201759.png|Pasted image 20240327201759.png]]
 -  **Restart the Machine**
 - Verify by searching **Hyper-V** in the search bar.
 
