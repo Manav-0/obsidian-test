@@ -1,5 +1,7 @@
 ---
 share: true
+tags:
+  - onbarding
 ---
 
 This is a step by step tutorial for installing Hyper-V on windows. Please visit the links mentions in the document for any reference. 
@@ -17,13 +19,13 @@ Learn more about [virtualization and Hyper V](https://learn.microsoft.com/en-us/
 - Open windows run dialog box *windows key + R*.
 - Type *appwiz*.*cpl* and press enter. 
 - Click on **Turn windows features on or off**. 
-- Scroll down to Hyper-V and click **OK**. 
--![[Pasted image 20240327201759.png|500]]
+- Scroll down to Hyper-V and click **OK**.  ![[Pasted image 20240327201759.png|500]]
 -  **Restart the Machine**
 - Verify by searching **Hyper-V** in the search bar.
 
 
+### **THIS is A test file**
 
-
+ 
 
 
