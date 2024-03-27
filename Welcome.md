@@ -1,5 +1,7 @@
 ---
 share: true
+tags:
+  - onbarding
 ---
 
 This is a step by step tutorial for installing Hyper-V on windows. Please visit the links mentions in the document for any reference. 
